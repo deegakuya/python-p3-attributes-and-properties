@@ -54,3 +54,4 @@ class TestDog:
         '''saves breed if in breed list.'''
         fido = Dog(breed="Pug")
         assert(fido.breed == "Pug")
+
